@@ -2,8 +2,8 @@
 $(document).ready(function(){
     console.log("Il documento è pronto");
 });
-// versione shorthand
 
+// versione shorthand
 $(function(){
     console.log("Il documento è pronto");
 });
